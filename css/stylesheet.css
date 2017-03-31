@@ -1,0 +1,117 @@
+body {
+	background-color: #fff200;
+	margin: 0;
+	color: #231f20;
+	font-family: 'universcondensedbold', Arial, sans-serif;
+}
+.logo {
+	width: 600px;
+}
+.crossing_text {
+	font-size: 100pt;
+	font-family: 'universcondensedbold', Arial, sans-serif;
+	text-transform: uppercase;
+	margin-bottom: -50pt;
+}
+.aachen_text {
+	font-size: 130pt;
+	font-family: 'universcondensedbold', Arial, sans-serif;
+	text-transform: uppercase;
+}
+.date {
+	background-color: #231f20;
+	color: white;
+	font-size: 80pt;
+	font-family: 'universextrablack', Arial, sans-serif;
+}
+
+.vvk {
+	font-size: 20pt;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'universextrablack', Arial, sans-serif;
+}
+
+.kneipen_logos {
+	margin-top: 20px;
+}
+
+.kneipen_logo {
+	max-width: 200px;
+	max-height: 80px;
+	margin-left:10px;
+}
+
+.explanation, .happy_hour {
+	width: 800px;
+}
+
+@font-face {
+    font-family: 'universextrablack';
+    src: url('uvf_____-webfont.woff2') format('woff2'),
+         url('uvf_____-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'universblackext';
+    src: url('uvzv____-webfont.woff2') format('woff2'),
+         url('uvzv____-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'universcondensed';
+    src: url('uvc_____-webfont.woff2') format('woff2'),
+         url('uvc_____-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'universcondensedbold';
+    src: url('uvcb____-webfont.woff2') format('woff2'),
+         url('uvcb____-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'universextrablackextobl';
+    src: url('uvfvo___-webfont.woff2') format('woff2'),
+         url('uvfvo___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'universlight';
+    src: url('uvl_____-webfont.woff2') format('woff2'),
+         url('uvl_____-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
